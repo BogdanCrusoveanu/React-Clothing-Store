@@ -1,4 +1,4 @@
-To see the project live use this link: 
+## To see the project live use this link: 
 
 https://crs-react-clothing-store.herokuapp.com/
 
