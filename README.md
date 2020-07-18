@@ -1,3 +1,10 @@
+To see the project live use this link: 
+
+https://crs-react-clothing-store.herokuapp.com/
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
