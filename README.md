@@ -1,6 +1,6 @@
 ## To see the project live use this link: 
 
-Heroku:
+Heroku link:
 https://crs-react-clothing-store.herokuapp.com/
 
 
